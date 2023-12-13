@@ -1,0 +1,39 @@
+.container {
+    /* height: 100%; */
+    border: solid 2px black;
+    margin-top: 10px;
+}
+
+.row {
+    border: solid 1px black;
+    margin-top: 5px;
+    
+}
+
+.col-lg-4 {
+    border: solid 2px red;
+}
+
+#bot{
+    border: solid 2px red;
+    height: 400px;
+    width: 1500px;
+}
+
+#bot1{
+    border: solid 2px black;
+    height: 380px;
+    
+
+}
+
+#bot2{
+    border: solid 2px blue;
+
+
+}
+
+#box{
+    border: 2px solid red;
+    height: 185px;
+}
